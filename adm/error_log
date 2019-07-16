@@ -1,0 +1,16 @@
+[20-Aug-2015 14:59:34 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/adm/index.php on line 76
+[20-Aug-2015 14:59:45 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/adm/index.php on line 76
+[20-Aug-2015 14:59:55 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/adm/index.php on line 76
+[20-Aug-2015 15:00:06 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/adm/index.php on line 76
+[20-Aug-2015 15:00:16 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/adm/index.php on line 76
+[20-Aug-2015 15:00:26 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/adm/index.php on line 76
+[20-Aug-2015 15:00:37 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/adm/index.php on line 76
+[20-Aug-2015 15:00:47 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/adm/index.php on line 76
+[20-Aug-2015 15:00:58 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/adm/index.php on line 76
+[20-Aug-2015 15:01:08 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/adm/index.php on line 76
+[20-Aug-2015 15:01:19 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/adm/index.php on line 76
+[20-Aug-2015 15:01:29 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/adm/index.php on line 76
+[20-Aug-2015 15:01:39 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/adm/index.php on line 76
+[20-Aug-2015 15:01:50 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/adm/index.php on line 76
+[20-Aug-2015 15:02:00 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/adm/index.php on line 76
+[20-Aug-2015 15:02:10 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/adm/index.php on line 76

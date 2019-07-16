@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{margin-top:15px; background-image:url(../images/bg-3.png);}
+#box{background-color:#FFF; width:600px; height:800px; margin-left:325px;}
+#head{background-color:#F90; height:45px; 
+color:#FFF; 
+font-family:"Arial Black", Gadget, sans-serif; 
+font-size:18px;
+padding-left:110px;
+padding-top:15px;
+}
+form{
+	padding-left:35px;
+	padding-top:25px;}
+.input{outline:none; margin-top:5px; margin-bottom:5px; margin-left:5px; border:none;}
+.inputbox{width:500px; background-color:#FFF; border:solid 1px #999;}
+.label{font-size:12px; font-family:Arial, Helvetica, sans-serif; margin-top:15px; margin-bottom:5px;}
+#ket{font-size:12px; font-family:Arial, Helvetica, sans-serif; margin-top:5px;}
+select{ outline:none; margin-top:5px; margin-bottom:5px; margin-left:5px; border:none;}
+#but{margin-top:5px; border:none;}

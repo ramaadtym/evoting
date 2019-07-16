@@ -1,0 +1,16 @@
+[27-Jul-2015 00:41:34 UTC] PHP Fatal error:  Cannot redeclare header_dinamis() (previously declared in /home/ikafhunpad/public_html/vote/config.php:15) in /home/ikafhunpad/public_html/vote/config.php on line 23
+[27-Jul-2015 00:54:53 UTC] PHP Fatal error:  Cannot redeclare header_dinamis() (previously declared in /home/ikafhunpad/public_html/vote/config.php:15) in /home/ikafhunpad/public_html/vote/config.php on line 23
+[27-Jul-2015 04:19:06 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ikafhunp_vote'@'localhost' (using password: YES) in /home/ikafhunpad/public_html/vote/config.php on line 2
+[27-Jul-2015 04:19:06 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ikafhunpad/public_html/vote/config.php on line 3
+[27-Jul-2015 04:19:06 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ikafhunpad/public_html/vote/config.php on line 3
+[18-Aug-2015 02:39:39 America/New_York] PHP Parse error:  syntax error, unexpected 'images' (T_STRING), expecting ',' or ';' in /home/k7412360/public_html/vote/login/status.php on line 78
+[18-Aug-2015 02:39:42 America/New_York] PHP Parse error:  syntax error, unexpected 'images' (T_STRING), expecting ',' or ';' in /home/k7412360/public_html/vote/login/status.php on line 78
+[18-Aug-2015 02:39:43 America/New_York] PHP Parse error:  syntax error, unexpected 'images' (T_STRING), expecting ',' or ';' in /home/k7412360/public_html/vote/login/status.php on line 78
+[18-Aug-2015 02:39:54 America/New_York] PHP Parse error:  syntax error, unexpected 'images' (T_STRING), expecting ',' or ';' in /home/k7412360/public_html/vote/login/status.php on line 78
+[20-Aug-2015 11:49:24 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/k7412360/public_html/vote/login/status.php on line 15
+[21-Aug-2015 21:36:05 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/k7412360/public_html/vote/login/proslog.php on line 19
+[21-Aug-2015 21:36:09 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/k7412360/public_html/vote/login/proslog.php on line 19
+[21-Aug-2015 21:36:11 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/k7412360/public_html/vote/login/proslog.php on line 19
+[21-Aug-2015 21:36:11 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/k7412360/public_html/vote/login/proslog.php on line 19
+[21-Aug-2015 21:36:23 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/k7412360/public_html/vote/login/proslog.php on line 19
+[21-Aug-2015 21:37:06 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/k7412360/public_html/vote/login/proslog.php on line 19

@@ -1,0 +1,59 @@
+<?php
+include("../config.php");
+echo"
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+<title>Perolehan Suara Sementara | E-Voting IKA FH UNPAD</title>
+<link rel='stylesheet' href='css/hasil.css' />
+</head>
+
+<body>
+<div id='cont'>
+	<div id='head'>
+	  <div id='box'>
+        	<div id='logo'>
+        	<img src='images/logo.png' width='120' height='101' />
+          	</div>
+          	<div id='txth'>
+          	Perolehan Suara Sementara
+          	</div>
+          	<div id='panitia'>
+          	Pemilihan Umum Ikatan keluarga Alumni Fakultas Hukum Universitas Padjadjaran
+          	</div>
+      </div>
+    </div>
+    <table align='center'>
+	
+<tr>
+<td><img src='images/kandidat1.jpg' width='205' height='299' /></td>
+<td><img src='images/kandidat2.jpg' width='205' height='299' /></td>
+</tr>
+
+<tr>
+";
+
+print("<td align='center'>");
+$kandidat1 = mysql_fetch_array(mysql_query("select total from suara where opsi='Kandidat 1'"));
+
+print("<h3>".$kandidat1['total']."");
+print(" Suara</h3>;</td>");
+
+print("<td align='center'>");
+$kandidat2 = mysql_fetch_array(mysql_query("select total from suara where opsi='Kandidat 2'"));
+
+print("<h3>".$kandidat2['total'].""); 
+print(" Suara</h3></td>");
+
+print("</tr>");
+print("</table>");
+$suara = mysql_query("select SUM(total) AS suaramasuk from suara ");
+$tampil = mysql_fetch_assoc($suara);
+echo"<br>Jumlah Suara Masuk:".$tampil['suaramasuk']." Suara";
+
+print("</div>");
+print("</body>");
+print("</html>");
+
+?>

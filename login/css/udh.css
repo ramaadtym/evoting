@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face{
+	font-family:teripang;
+	src:url(../font/diavlob.otf);
+}
+body{margin:0; background-color:#6dbcc3;}
+#navbar{min-width:900px; height:52px; background-color:#ea2c2c;}
+#cont{min-width:900px; height:500px; margin-left:150px;}
+#yeah{font-family:"Arial Black", Gadget, sans-serif; 
+	font-size:18px; 
+	padding-left:350px; 
+	padding-top:35px;}
+
+
+#psn{color:#F00; font-size:18px; font-family:teripang; margin-top:-15px;}
+#out{float:right; padding-right:14px;}
+#out a{color:#FFF; background-color:#ea2c2c; text-decoration:none; font-family:teripang; padding:15px;}
+#out a:hover{background-color:#a20000; padding:15px;}
+#out ul{list-style-type:none;}
+#out li{display:inline;}
+#logo{float:left; padding-left:25px; padding-top:14px; color:#FFF; font-family:teripang; font-size:18px;}
+
+#copy{font-size:12px; 
+font-family:Arial, Helvetica, sans-serif; 
+color:#FFF;
+float:right;
+padding-right:55px;
+padding-top:40px;
+}
+
+#jstk a{text-decoration:none;
+color:#FFF;
+}
+#jstk a:hover{color:#F60;}
+
+#btn1 {
+    border: 0px;
+    width: 220px;
+background-color:#ea2c2c;
+color:#FFF;
+padding:24px;
+margin-right:10px;
+text-decoration:none;
+}
+
+#button2 {
+    border: 0px;
+    width: 300px;
+background-color:#ffab3f;
+color:#FFF;
+padding:24px;
+text-decoration:none;
+}

@@ -1,0 +1,21 @@
+<!--thank you-->
+<div class="thank-you">
+	<div class="close-1"> </div>
+	<h4>THANK YOU</h4>
+	<p>Your account has been created and a
+		verification email has been sent.
+		Click on the link included in the email
+		to activate your account.  
+		</p>
+		<a href="#"><h5>Thank you.</h5></a>
+	<a href="#" class="thank-you-button">ok</a>
+</div>
+<!--/thank you-->
+<script>$(document).ready(function(c) {
+	$('.close-2').on('click', function(c){
+		$('.login-form-1').fadeOut('slow', function(c){
+	  		$('.login-form-1').remove();
+		});
+	});	  
+});
+</script>

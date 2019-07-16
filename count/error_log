@@ -1,0 +1,81 @@
+[20-Aug-2015 02:50:18 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:50:44 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:51:11 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:51:37 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:52:07 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:52:15 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:52:21 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:52:27 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:52:33 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:52:40 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:52:50 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:53:01 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:53:10 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:53:21 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:53:30 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:53:39 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:53:58 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:54:05 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:54:13 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:54:19 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:54:26 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:54:32 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:54:40 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:54:47 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:54:54 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:55:00 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 02:55:07 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/k7412360/public_html/vote/count/usercount.php on line 61
+[20-Aug-2015 03:03:08 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/k7412360/public_html/vote/count/usercount.php on line 49
+[20-Aug-2015 03:23:08 America/New_York] PHP Parse error:  syntax error, unexpected 'select' (T_STRING), expecting ',' or ';' in /home/k7412360/public_html/vote/count/usercount.php on line 59
+[20-Aug-2015 03:23:36 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/k7412360/public_html/vote/count/usercount.php on line 57
+[20-Aug-2015 03:23:45 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/k7412360/public_html/vote/count/usercount.php on line 57
+[20-Aug-2015 03:23:46 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/k7412360/public_html/vote/count/usercount.php on line 57
+[20-Aug-2015 03:24:36 America/New_York] PHP Parse error:  syntax error, unexpected '/' in /home/k7412360/public_html/vote/count/usercount.php on line 68
+[20-Aug-2015 03:24:37 America/New_York] PHP Parse error:  syntax error, unexpected '/' in /home/k7412360/public_html/vote/count/usercount.php on line 68
+[20-Aug-2015 03:24:37 America/New_York] PHP Parse error:  syntax error, unexpected '/' in /home/k7412360/public_html/vote/count/usercount.php on line 68
+[20-Aug-2015 03:26:36 America/New_York] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING), expecting ',' or ';' in /home/k7412360/public_html/vote/count/count.php on line 60
+[20-Aug-2015 03:27:00 America/New_York] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING), expecting ',' or ';' in /home/k7412360/public_html/vote/count/count.php on line 60
+[20-Aug-2015 03:27:15 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/k7412360/public_html/vote/count/count.php on line 59
+[20-Aug-2015 03:27:28 America/New_York] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING), expecting ',' or ';' in /home/k7412360/public_html/vote/count/count.php on line 60
+[20-Aug-2015 03:27:29 America/New_York] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING), expecting ',' or ';' in /home/k7412360/public_html/vote/count/count.php on line 60
+[20-Aug-2015 03:27:29 America/New_York] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING), expecting ',' or ';' in /home/k7412360/public_html/vote/count/count.php on line 60
+[20-Aug-2015 03:27:29 America/New_York] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING), expecting ',' or ';' in /home/k7412360/public_html/vote/count/count.php on line 60
+[20-Aug-2015 03:28:40 America/New_York] PHP Parse error:  syntax error, unexpected '/' in /home/k7412360/public_html/vote/count/count.php on line 56
+[20-Aug-2015 03:38:20 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/k7412360/public_html/vote/count/count.php on line 58
+[20-Aug-2015 03:38:21 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/k7412360/public_html/vote/count/count.php on line 58
+[20-Aug-2015 15:14:26 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/k7412360/public_html/vote/count/count.php on line 71
+[20-Aug-2015 15:14:59 America/New_York] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ',' or ';' in /home/k7412360/public_html/vote/count/count.php on line 68
+[20-Aug-2015 15:15:25 America/New_York] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ',' or ';' in /home/k7412360/public_html/vote/count/count.php on line 68
+[20-Aug-2015 15:15:33 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/k7412360/public_html/vote/count/count.php on line 71
+[20-Aug-2015 15:15:34 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/k7412360/public_html/vote/count/count.php on line 71
+[20-Aug-2015 15:15:45 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/k7412360/public_html/vote/count/count.php on line 71
+[20-Aug-2015 15:15:46 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/k7412360/public_html/vote/count/count.php on line 71
+[20-Aug-2015 15:15:46 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/k7412360/public_html/vote/count/count.php on line 71
+[20-Aug-2015 15:52:45 America/New_York] PHP Parse error:  syntax error, unexpected '/' in /home/k7412360/public_html/vote/count/count.php on line 8
+[20-Aug-2015 15:52:47 America/New_York] PHP Parse error:  syntax error, unexpected '/' in /home/k7412360/public_html/vote/count/count.php on line 8
+[20-Aug-2015 15:54:58 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:00 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:32 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:33 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:34 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:34 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:34 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:34 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:34 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:34 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:34 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:34 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:34 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:34 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:34 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:34 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:34 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:34 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:34 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:34 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:34 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:34 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:34 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:55:37 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 20
+[20-Aug-2015 15:56:06 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 22
+[20-Aug-2015 15:56:06 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/k7412360/public_html/vote/count/count.php on line 22

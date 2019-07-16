@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face{
+	font-family: widiw;
+	src:url(../font/super.otf);
+}
+@font-face{
+	font-family: wakwaw;
+	src:url(../font/diavlob.otf);
+	}
+body{margin:0; background-color:#ccf5f9; color:#FFF;}
+#cont{width:775px; height:650px; margin-top:50px; margin-bottom:5px; margin-left:120px; padding:15px; }
+table{padding-top:45px; padding-left:25px;}
+#box{height:120px; margin-bottom:25px; width:795px;}
+#head{background-color:#ea2c2c; height:120px; margin-bottom:25px;  width:775px;}
+#logo{width:145px; height:110px; float:left;padding-top:10px; padding-left:20px}
+#logo2{width:135px; height:100px; float:right; padding-top:5px; padding-right:10px;}
+#txth{padding-left:150px; padding-top:25px; color:#FFF; font-size:26px; font-family:widiw; text-align:center;}
+#panitia{ padding-top:10px; font-size:12px; padding-left:105px; font-family:Arial; text-align:center;}
+#masuk{font-size:22px; padding-left:210px;  font-family:"Arial Black", Gadget, sans-serif; color:#F00;}
+#masuk2{font-size:22px; padding-left:160px;  padding-bottom:30px; font-family:"Arial Black", Gadget, sans-serif; color:#F00;}
+#calon{font-size:18px; padding-left:80px; padding-right:80px; padding-bottom:15px;  font-family:"Arial Black", Gadget, sans-serif; color:#006abb; text-align:center;}
+h3{font-family:wakwaw;}
+marquee{font-size:20px; padding-bottom:15px;  font-family:"Arial Black"; color:#ea2c2c; padding-top:45px;}
+
+
+#navbar{float:right; padding: 5px; color:#FFF; font-family:wakwaw; font-size:12px;}
+#navbar ul{list-style-type:none;}
+#navbar li{display: inline;}
+#navbar a{color:#FFF; text-decoration:none; padding:15px;}
+#navbar a:hover{background-color:#F60; 
+padding:15px;}
+
+#copy{font-size:12px; 
+font-family:Arial, Helvetica, sans-serif; 
+color:#666;
+float:right;
+padding-right:15px;
+padding-top:45px;
+}
+#copy2{font-size:12px; 
+font-family:Arial, Helvetica, sans-serif; 
+color:#666;
+float:right;
+padding-right:15px;
+padding-top:95px;
+}
+
+#jstk a{text-decoration:none;
+color:#333;
+}
+#jstk a:hover{color:#06F;}

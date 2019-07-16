@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="css/index.css" />
+<title>E-Voting | Administrator</title>
+</head>
+
+<body>
+<div id="header">
+	<div id="adm">
+	<img src="images/adm_area.png" width="181" height="32" />
+	</div>
+    <div id="navbar">
+    	<ul>
+        <li><a href="#">Perolehan Sementara</a></li>
+        <li><a href="#">Keluar</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="cont">
+	<div id="title">
+    <p>Verifikasi Calon Pemilih</p>
+    </div>
+    <div>
+    print("<table>");
+    print("<thead>");
+    	print("<tr>");
+    		print("<th>");
+            print("No.");
+    		print("</th>");
+            print("<th>");
+            print("Nama");
+    		print("</th>");
+            print("<th>");
+            print("Angkatan/Tahun");
+    		print("</th>");
+            print("<th>");
+            print("No.Telepon/Ponsel");
+    		print("</th>");
+            print("<th>");
+            print("Pend. Terakhir");
+    		print("</th>");
+            print("<th>");
+            Pekerjaan saat ini");
+    		print("</th>");
+            print("<th>");
+            print("Status Suara");
+    		print("</th>");
+            print("<th>");
+            Status Akun");
+    		print("</th>");
+            print("<th>");
+           	print("</th>");
+    	print("</tr>");
+        print("<tr>");
+        	print("<td>");
+            $no++;
+    		print("</td>");
+            print("<td>");
+            print("$hasil[1]");
+    		print("</td>");
+            print("<td>");
+            print("$hasil[2]");
+    		print("</td>");
+            print("<td>");
+            print("$hasil[3]");
+    		print("</td>");
+            print("<td>");
+            print("$hasil[6]");
+    		print("</td>");
+            print("<td>");
+            print("$hasil[7]");
+    		print("</td>");
+            print("<td>");
+            print("$hasil[8]");
+    		print("</td>");
+            print("<td>");
+            if($hasil[9] == 0)
+		echo"Belum Memilih";
+	else
+		echo"Sudah Memilih";
+    		print("</td>");
+            print("<td>");
+            if($hasil[10] == 0)
+		echo"Belum Di Verifikasi";
+	else
+		echo"Terverifikasi!";
+           	print("</td>");
+            print("<td>");
+           print("<a href=\"prosverifying.php?m=$hasil[3]&usern=$hasil[4]\">Verifikasi</a>");
+            print("</td>");
+        print("</tr>");
+    print("</table>");
+    </div>
+</div>
+<!---Footer-->
+<div id="copy">
+ 	<p> Copyright &copy; 2015 <br />
+ 	Ikatan Keluarga Alumni Fakultas Hukum Universitas Padjajaran
+ 	<br />
+     Designed by <span id="jstk"><a href="#" >JASTIK</a></span></p>
+</div>
+</body>
+</html>

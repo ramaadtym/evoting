@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{margin:0; background-color:#d5eaff;}
+@font-face{font-family:ninja; src:url(../font/diavlob.otf);}
+#trims{font-family:ninja; font-size:22px; 
+padding-top:125px;
+padding-left:45px;
+padding-right:45px;}
+#red{color:#F00; text-decoration:underline;}
+#link{padding-top:55px; padding-left:200px; padding-right:260px; font-size:18px; text-align:center}
+#link a{text-decoration:none; color:#0061c5;}
+#link a:hover{color:#ff0072;}

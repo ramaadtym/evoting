@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face{
+	font-family: widiw;
+	src:url(../font/super.otf);
+}
+@font-face{
+	font-family: wakwaw;
+	src:url(../font/diavlob.otf);
+	}
+body{margin:0; background-image:url(../images/bg.png);}
+#cont{width:800px; height:650px; margin-top:10px; margin-bottom:5px; margin-left:220px; padding:15px; background-color:#FFF;}
+table{padding-top:45px; padding-left:25px;}
+#box{height:120px; margin-bottom:25px; border:solid; width:795px;}
+#head{background-color:#F00; height:70px; margin-bottom:25px;  width:800px;}
+#logo{width:145px; height:110px; float:left;padding-top:5px;}
+#logo2{width:145px; height:110px; float:right;padding-top:5px;}
+#txth{padding-left:170px; padding-top:25px; color:#FFF; font-size:26px; font-family:widiw;}
+#panitia{ padding-top:15px; font-size:14px; font-family:arial black;}
+#masuk{font-size:22px; padding-left:210px;  font-family:"Arial Black", Gadget, sans-serif; color:#F00;}
+h3{font-family:wakwaw;}
+
+#header{min-width:900px; height:45px; background-color:#000;}
+#navbar{float:right; padding: 5px; color:#FFF; font-family:wakwaw; font-size:12px;}
+#navbar ul{list-style-type:none;}
+#navbar li{display: inline;}
+#navbar a{color:#FFF; text-decoration:none; padding:15px;}
+#navbar a:hover{background-color:#F60; 
+padding:15px;}
+
+#copy{font-size:12px; 
+font-family:Arial, Helvetica, sans-serif; 
+color:#666;
+float:right;
+padding-right:15px;
+padding-top:45px;
+}
+
+#jstk a{text-decoration:none;
+color:#333;
+}
+#jstk a:hover{color:#06F;}

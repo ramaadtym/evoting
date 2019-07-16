@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face{
+	font-family:teripang;
+	src:url(../font/diavlob.otf);
+}
+body{margin:0;}
+#navbar{min-width:900px; height:52px; background-color:#F90;}
+#cont{min-width:900px; height:500px;}
+#yeah{font-family:"Arial Black", Gadget, sans-serif; 
+	font-size:36px; 
+	padding-left:150px; 
+	padding-top:100px;}
+
+
+#psn{color:#F00; font-size:18px; font-family:teripang; margin-top:-15px;}
+#out{float:right; padding-right:14px;}
+#out a{color:#FFF; background-color:#F90; text-decoration:none; font-family:teripang; padding:15px;}
+#out a:hover{background-color:#F30; padding:15px;}
+#out ul{list-style-type:none;}
+#out li{display:inline;}
+#logo{float:left; padding-left:25px; padding-top:14px; color:#FFF; font-family:teripang; font-size:18px;}
+
+#copy{font-size:12px; 
+font-family:Arial, Helvetica, sans-serif; 
+color:#666;
+float:right;
+padding-right:55px;
+padding-top:10px;
+}
+
+#jstk a{text-decoration:none;
+color:#333;
+}
+#jstk a:hover{color:#F60;}
